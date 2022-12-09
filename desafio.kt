@@ -21,8 +21,7 @@ fun main() {
 }
 
 
-
- enum class nivel {BASICO,INTERMEDIARIO,FASIL}
+ enum class nivel {BASICO,INTERMEDIARIO,FACIL}
 
  class Usuario
 
